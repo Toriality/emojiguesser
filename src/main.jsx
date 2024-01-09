@@ -5,6 +5,7 @@ import Home from "./pages/home";
 import Game from "./pages/game";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 
 const router = createBrowserRouter([
   {
@@ -22,5 +23,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Layout>
       <RouterProvider router={router} />
     </Layout>
+    <Analytics />
   </React.StrictMode>
 );
