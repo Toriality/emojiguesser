@@ -83,12 +83,12 @@ export default function Game() {
                       disabled={!isGuessing}
                       onClick={handleGuess}
                       className={`
-                      bg-white ${
-                        mode === "emoji" ? "p-4 w-64" : "p-6"
-                      } border-2 rounded-full border-gray-200 
-                     ${!isGuessing && isChoiceCorrect(c) && "bg-green-200 text-black"}
-                     ${!isGuessing && isChoiceIncorrect(c) && "bg-red-200 text-black"}
-                     ${isGuessing && "hover:scale-110 hover:border-gray-300"}
+                       ${
+                         mode === "emoji" ? "p-4 w-64" : "p-6"
+                       } border-2 rounded-full border-gray-200 
+                     ${!isGuessing && isChoiceCorrect(c) && "bg-green-300  text-black"}
+                     ${!isGuessing && isChoiceIncorrect(c) && "bg-red-300 text-black"}
+                     ${isGuessing && "bg-white hover:scale-110 hover:border-gray-300"}
                       `}
                     >
                       {c[modeChoice()]}
