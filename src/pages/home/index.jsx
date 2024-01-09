@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <>
       <div className="font-bold text-center mb-8">
-        <h1 className="text-6xl mb-4">
+        <h1 className="px-6 text-4xl md:text-6xl mb-4">
           <span className="text-gray-500">welcome to </span>
           <span className="text-amber-300">emoji</span>
           <span className="text-gray-400">guesser</span>
         </h1>
-        <p className="text-2xl text-gray-400/65">
+        <p className="px-12 text-xl md:text-2xl text-gray-400/65">
           a cool game where you guess random emojis
         </p>
       </div>

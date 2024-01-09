@@ -63,9 +63,9 @@ export default function Game() {
     <>
       {mode && category && emoji && choices ? (
         <div className="flex flex-col w-full items-center text-center">
-          <div className="w-1/3">
+          <div className="w-3/4 md:1/2 lg:w-1/3">
             <p>Which emoji is this?</p>
-            <p className="text-4xl font-bold mt-2 p-4 border-2 rounded-full border-gray-200 bg-white w-full">
+            <p className="text-2xl md:text-4xl font-bold mt-2 p-4 border-2 rounded-full border-gray-200 bg-white w-full">
               {emoji[mode]}
             </p>
           </div>
@@ -73,8 +73,10 @@ export default function Game() {
             <>
               <ul
                 className={`flex mt-12 ${
-                  mode === "description" ? "text-4xl" : "text-lg"
-                } gap-4 ${mode === "emoji" && "grid grid-cols-2"}`}
+                  mode === "description"
+                    ? "flex-wrap justify-center text-2xl md:text-4xl"
+                    : "text-lg"
+                } gap-4 ${mode === "emoji" && "flex flex-col md:grid md:grid-cols-2"}`}
               >
                 {choices.map((c, i) => (
                   <li key={i}>
