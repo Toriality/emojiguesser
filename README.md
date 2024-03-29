@@ -1,6 +1,6 @@
-# EmojiGuesser
+<h1 align=center>EmojiGuesser</h1>
 
-Guess random emojis! 😎
+<h3 align=center>Guess random emojis! 😎</h2>
 
 ![Untitled-1](https://github.com/Toriality/emojiguesser/assets/38092988/0d11875f-c889-4c30-b200-2e624c4af190)
 
