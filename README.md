@@ -1,6 +1,6 @@
 <h1 align=center>EmojiGuesser</h1>
 
-<h3 align=center>Guess which word an emoji represent and vice versa! 😎</h3>
+<h3 align=center>Guess which word an emoji represents and vice versa! 😎</h3>
 
 <p align="center"><img src="https://github.com/Rathard/emojiguesser/assets/33904908/68e594c9-6616-427f-93f2-f3f22e8702c4"></p>
 
@@ -20,7 +20,13 @@ EmojiGuesser is a simple and silly fun game where you are tasked with guessing t
 
 #### <h3 align=center>😎 https://emojiguesser.vercel.app/ 😎</h3>
 
-<h3 align=center>What is a Hex Code?</h3>
+<h3 align=center>Choose your gamemode</h3>
+
+The game offers two game modes, you either guess which word an emoji is supposed to be or which emoji a word is supposed to be, **guess by emoji** and **guess by name** respectively, choose whichever sounds more fun to you, or try both!
+
+<h3 align=center>Guessing Time: By Emoji</h3>
+
+In this mode you will get one emoji and 4 different words and you need to choose the right word for the emoji, simple, right? For example: 🥐 <-- this is the emoji you are given, and these are your 4 word options: Watermelon, Croissant, Smiling Face with Sunglasses, Wolf. Which one is it? Select your option and pray for the best.
 
 
 <h2 align=center>Have Fun! 💚</h2>
