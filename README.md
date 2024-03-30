@@ -24,9 +24,21 @@ EmojiGuesser is a simple and silly fun game where you are tasked with guessing t
 
 The game offers two game modes, you either guess which word an emoji is supposed to be or which emoji a word is supposed to be, **guess by emoji** and **guess by name** respectively, choose whichever sounds more fun to you, or try both!
 
-<h3 align=center>Guessing Time: By Emoji</h3>
+<h3 align=center>Guessing Time</h3>
 
-In this mode you will get one emoji and 4 different words and you need to choose the right word for the emoji, simple, right? For example: 🥐 <-- this is the emoji you are given, and these are your 4 word options: Watermelon, Croissant, Smiling Face with Sunglasses, Wolf. Which one is it? Select your option and pray for the best.
+In both game modes you will get one emoji or name and 4 different options to choose from, and you need to choose the right option for your given name or emoji, simple, right? An example of both game modes:
 
+| Guess by Emoji: 🥐 | Guess by Name: Croissant |
+|     :---:      |     :---:     |
+| Option 1: Watermelon     | Option 1: 🍉    |
+| Option 2: Croissant       | Option 2: 🥐      |
+| Option 3: Smiling Face with Sunglasses     | Option 3: 😎    |
+| Option 4: Wolf       | Option 4: 🐺      |
+
+The emoji/word that you've been given and your 4 options, which one is it? Select your option and pray for the best.
+
+<h3 align=center>Aftermath</h3>
+
+After you've selected your option the correct option will be highlighted in green and if your selection wasn't the right one it will be highlighted in red. After that all you can do is click on **Next** and keep guessing until you've had enough.
 
 <h2 align=center>Have Fun! 💚</h2>
