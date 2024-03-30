@@ -1,6 +1,6 @@
 <h1 align=center>EmojiGuesser</h1>
 
-<h3 align=center>Guess what random emojis represent! 😎</h3>
+<h3 align=center>Guess what words emojis represent and vice versa! 😎</h3>
 
 <p align="center"><img src="https://github.com/Rathard/emojiguesser/assets/33904908/68e594c9-6616-427f-93f2-f3f22e8702c4"></p>
 
@@ -14,11 +14,11 @@ EmojiGuesser is a simple and silly fun game where you are tasked with guessing t
   - **Guess by name**: You'll get one random emoji and 4 different emoji names, guess which name is the right one and represents the given emoji!
 - All emojis are included! That means over **3,782 possibilities**, do you know them all?
 > [!NOTE]
-> Certain emojis can display as a combination of two different emojis, flag emojis can be displayed as two letters instead of their emoji and some newer emojis can be missing and instead a blank box will be displayed. This mostly depends on which browser you are currently using, mileage may vary.
+> Certain emojis can display as a combination of two different emojis, flag emojis can be displayed as two letters instead of their emoji and some newer emojis can be missing leading to a blank box being displayed instead. This mostly depends on which browser you are currently using, mileage may vary.
 
 <h2 align=center>How To Play:</h2>
 
-#### <h3 align=center>🟩 https://hexguesser.vercel.app 🟩</h3>
+#### <h3 align=center>😎 https://emojiguesser.vercel.app/ 😎</h3>
 
 <h3 align=center>What is a Hex Code?</h3>
 
