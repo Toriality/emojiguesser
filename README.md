@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/Rathard/emojiguesser/assets/33904908/68e594c9-6616-427f-93f2-f3f22e8702c4"></p>
 
-EmojiGuesser is a simple and silly fun game where you are tasked with guessing the name of an emoji or which emoji represents a certain word.
+EmojiGuesser is a simple cool game where you are tasked with guessing the name of an emoji or which emoji represents a certain word.
 
 <h2 align=center>Features:</h2>
 
